@@ -1,8 +1,5 @@
 node_modules/
 ormconfig.json
-tmp/
-tmp/avatar/*
-tmp/cars/*
 .env
 dist/
 
